@@ -10,4 +10,5 @@ cd COBA
 python Elitedec.py
 
 Selamat mencoba
-Upload tanggal 4/2/2023 jam 23.54
+
+Upload Script tanggal 4/2/2023 jam 23.54
